@@ -1,6 +1,6 @@
 # AI Notes Summarizer
 
-This is a web app built with Streamlit and Python for a hackathon. It summarizes long text using the Hugging Face Inference API.
+This is a web app built with Streamlit and Python.It summarizes long text using the Hugging Face Inference API.
 
 ## 🚀 Live Demo
 
